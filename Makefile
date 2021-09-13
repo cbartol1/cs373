@@ -1,5 +1,5 @@
-all: prj_1.c
-	gcc -g -Wall -o prj_1 prj_1.c
+all: bartoletti_p1.c
+	gcc -g -Wall -o bartoletti_p1 bartoletti_p1.c
 
 clean:
-	$(RM) prj_1
+	$(RM) bartoletti_p1
